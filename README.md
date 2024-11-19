@@ -1,4 +1,6 @@
-# 👋 Hi! I'm Oluwasegun but for ease of conversation please call me Viktor
+
+
+# 👋 Hi there. I'm Oluwasegun but for ease of conversation please call me Viktor
 
 ## 🌟 About Me
 - ⚙️ **Data Engineer** skilled in building robust and scalable ETL pipelines for cloud platforms like AWS and GCP.
@@ -6,12 +8,12 @@
 - 💼 **Brief career in Management & Public Health Consulting** where I delivered data-driven solutions across various industries.
 - 💻 Passionate about **data pipeline development**, and **containerized workflows**.
 
-## 🛠️ My Skills
+## 🛠️ Key Skills
 - **Programming Languages**: Python, SQL, PySpark, HCL.
 - **Tools & Technologies**: Docker, Airflow, Terraform, AWS (S3, Glue, EC2), GCP (BigQuery, Storage, Cloud Run).
-- **Strengths**: Seeing the bigger picture, abstracting ideas and **representing client/manager expectations during the solution design process**.
+- **Strengths**: Seeing the "bigger picture", abstracting ideas and **representing client/manager expectations during the solution design process**.
 
-## 💡 Design Philosophy
+## 💡 My Design Philosophy
 - **Scalable and Delegable Pipelines**: I believe in designing pipelines that are intuitive to operate and delegate,
   enabling teams to focus on creating new solutions and solving other challenges. This approach contrasts with the common
   belief that only the author can maintain their code. I believe that good pipelines require little to no author intervention during production.
@@ -27,9 +29,7 @@
 - Implementing real-time CDC pipelines using Debezium to track and stream database changes to a cloud data warehouse
 
 ## 📈 Recent Projects
-- **[WooCommerce Data Pipeline](#)**: A modular pipeline for extracting, transforming, and loading e-commerce data.
-- **[Real Estate ETL](#)**: End-to-end ETL pipeline for processing real estate sales data (2001-2020).
-- **[Flight Delay Prediction](#)**: A machine learning model for predicting flight delays using historical data.
+- **[Fashion Image ETL Pipeline](https://github.com/Shegzimus/DE_Fashion_Product_Images)**: A modular pipeline for extracting, transforming, and loading 133,333 images and their respective metadata for ML use.
 
 ## 📫 Connect With Me
 If you find these qualities helpful, I'll be happy to discuss how I can add value to your team/project!
