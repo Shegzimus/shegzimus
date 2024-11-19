@@ -13,7 +13,7 @@
 - **Tools & Technologies**: Docker, Airflow, Terraform, AWS (S3, Glue, EC2), GCP (BigQuery, Storage, Cloud Run).
 - **Strengths**: Seeing the "bigger picture", abstracting ideas and **representing client/manager expectations during the solution design process**.
 
-## 💡 My Design Philosophy
+## 💡 My Design Philosophy (what you can expect)
 - **Scalable and Delegable Pipelines**: I believe in designing pipelines that are intuitive to operate and delegate,
   enabling teams to focus on creating new solutions and solving other challenges. This approach contrasts with the common
   belief that only the author can maintain their code. I believe that good pipelines require little to no author intervention during production.
