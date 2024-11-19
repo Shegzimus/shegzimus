@@ -24,7 +24,7 @@
   best practices like secret management, non-hardcoded paths, and modular structures to ensure pipelines are robust, compliant, and easy to maintain.
 
 ## 🔭 What I’m Working On
-- Developing a real-time streaming pipeline using tools like Kafka and Apache Flink to process and analyze weather data.
+- Developing a real-time streaming pipeline using tools like Kafka and Apache Flink to process and analyze weather and finance data (OLTP stuff).
 - Building pipelines with dynamic workload management capabilities using Airflow and Spark to adjust resource allocation based on data volume and complexity.
 - Implementing real-time CDC pipelines using Debezium to track and stream database changes to a cloud data warehouse
 
