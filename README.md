@@ -11,7 +11,7 @@
 ## 🛠️ Key Skills
 - **Programming Languages**: Python, SQL, PySpark, HCL.
 - **Tools & Technologies**: Docker, Airflow, Terraform, AWS (S3, Glue, EC2), GCP (BigQuery, Storage, Cloud Run).
-- **Strengths**: Seeing the "bigger picture", abstracting ideas and **representing client/manager expectations during the solution design process**.
+- **Strengths**: Seeing the "bigger picture", abstracting ideas and **integrating client/manager expectations into my solution design process**.
 
 ## 💡 My Design Philosophy (what you can expect)
 - **Scalable and Delegable Pipelines**: I believe in designing pipelines that are intuitive to operate and delegate,
