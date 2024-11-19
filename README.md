@@ -34,5 +34,6 @@
 ## 📫 Connect With Me
 If you find these qualities helpful, I'll be happy to discuss how I can add value to your team/project!
 - 📧 *[Email](segun.ajet@protonmail.com)*
-- 🦜 *[Book a brief meeting](https://calendar.app.google/zEJVh3RVoMRD3odn6)*
 - 💼 *[LinkedIn](https://www.linkedin.com/in/segun-ajet/)*
+- 🦜 *[Book a brief meeting](https://calendar.app.google/zEJVh3RVoMRD3odn6)*
+
