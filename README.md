@@ -32,7 +32,7 @@
 - **[Fashion Image ETL Pipeline](https://github.com/Shegzimus/DE_Fashion_Product_Images)**: A modular pipeline for extracting, transforming, and loading 133,333 images and their respective metadata for hypothetical ML use.
 
 ## 📫 Connect With Me
-If you find these qualities helpful, I'll happily discuss how I can add value to your team/project!
+If you think I'll be a good addition to your team, feel free to contact me using the links below and let's discuss your next solution!
 - 📧 *[Email](segun.ajet@protonmail.com)*
 - 💼 *[LinkedIn](https://www.linkedin.com/in/segun-ajet/)*
 - 🦜 *[Book a brief meeting](https://calendar.app.google/zEJVh3RVoMRD3odn6)*
