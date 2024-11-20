@@ -14,7 +14,7 @@
 - **Strengths**: Seeing the "bigger picture", abstracting ideas and **integrating client/manager expectations into my solution design process**.
 
 ## 💡 My Design Philosophy (what you can expect)
-- **Scalable and Delegable Pipelines**: I believe in designing pipelines that are intuitive to operate and delegate,
+- **Scalable and Delegable Pipelines**: I believe in designing intuitive pipelines to operate and delegate,
   enabling teams to focus on creating new solutions and solving other challenges. This approach contrasts with the common
   belief that only the author can maintain their code. I believe that good pipelines require little to no author intervention during production.
   
@@ -32,7 +32,7 @@
 - **[Fashion Image ETL Pipeline](https://github.com/Shegzimus/DE_Fashion_Product_Images)**: A modular pipeline for extracting, transforming, and loading 133,333 images and their respective metadata for ML use.
 
 ## 📫 Connect With Me
-If you find these qualities helpful, I'll be happy to discuss how I can add value to your team/project!
+If you find these qualities helpful, I'll happily discuss how I can add value to your team/project!
 - 📧 *[Email](segun.ajet@protonmail.com)*
 - 💼 *[LinkedIn](https://www.linkedin.com/in/segun-ajet/)*
 - 🦜 *[Book a brief meeting](https://calendar.app.google/zEJVh3RVoMRD3odn6)*
