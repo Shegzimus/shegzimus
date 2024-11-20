@@ -14,9 +14,9 @@
 - **Strengths**: Seeing the "bigger picture", abstracting ideas and **integrating client/manager expectations into my solution design process**.
 
 ## 💡 My Design Philosophy (what you can expect)
-- **Scalable and Delegable Pipelines**: I believe in designing intuitive pipelines to operate and delegate,
-  enabling teams to focus on creating new solutions and solving other challenges. This approach contrasts with the common
-  belief that only the author can maintain their code. I believe that good pipelines require little to no author intervention during production.
+- **Scalable and Delegable Pipelines**: I believe in designing pipelines that are easy to operate and maintain,
+  so that teams can focus on creating new solutions and solving other challenges. This approach contrasts with the common
+  belief that only the author can maintain their code. I strongly believe that good pipelines require little to no author intervention after deployment.
   
 - **Functionality before refinement**: I believe in getting things off the ground and starting with a pipeline that works—delivering value quickly—before refining it into a more polished, future-proof version. This saves time and lets me adapt designs based on real-world feedback.
   
