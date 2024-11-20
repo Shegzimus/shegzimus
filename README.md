@@ -29,7 +29,7 @@
 - Implementing real-time CDC pipelines using Debezium to track and stream database changes to a cloud data warehouse
 
 ## 📈 Recent Projects
-- **[Fashion Image ETL Pipeline](https://github.com/Shegzimus/DE_Fashion_Product_Images)**: A modular pipeline for extracting, transforming, and loading 133,333 images and their respective metadata for ML use.
+- **[Fashion Image ETL Pipeline](https://github.com/Shegzimus/DE_Fashion_Product_Images)**: A modular pipeline for extracting, transforming, and loading 133,333 images and their respective metadata for hypothetical ML use.
 
 ## 📫 Connect With Me
 If you find these qualities helpful, I'll happily discuss how I can add value to your team/project!
