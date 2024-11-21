@@ -25,9 +25,10 @@
   best practices like secret management, non-hardcoded paths, and modular structures to ensure pipelines are robust, compliant, and easy to maintain.
 
 ## 🔭 What I’m Working On
-- Developing a real-time streaming pipeline using tools like Kafka and Apache Flink to process and analyze weather and finance data (OLTP stuff).
-- Building pipelines with dynamic workload management capabilities using Airflow and Spark to adjust resource allocation based on data volume and complexity.
-- Implementing real-time CDC pipelines using Debezium to track and stream database changes to a cloud data warehouse
+- Building a weekly ETL pipeline for Near Earth Objects (asteroids) and Coronal Mass Ejections using NASA's API. 
+- Developing a real-time streaming pipeline using tools like Kafka and Apache Flink to process and analyze weather data.
+- Building pipelines with dynamic workload management capabilities using Airflow and Spark to adjust resource allocation based on data volume.
+- Designing a player database for a League of Legends discord group to track in-house scrims, tournaments and player stats.
 
 ## 📈 Recent Projects
 - **[Fashion Image ETL Pipeline](https://github.com/Shegzimus/DE_Fashion_Product_Images)**: A modular pipeline for extracting, transforming, and loading 133,333 images and their respective metadata for hypothetical ML use.
