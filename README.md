@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 - ⚙️ **Data Engineer** skilled in building robust and scalable ETL pipelines for cloud platforms like AWS and GCP.
-- 🔢 **Academic background in Mathematics & Data Science** with proven abilities in problem-solving and abstract thinking.
+- 🔢 **Academic background in Mathematics & Data Science** with proven abilities in problem-solving and analogous thinking.
 - 💼 **Brief career in Management & Public Health Consulting** where I delivered data-driven strategies across various industries.
 - 💻 Passionate about **data pipeline development**, and **containerized workflows**.
 
