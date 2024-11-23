@@ -1,6 +1,6 @@
 
 
-# 👋 Hi there. I'm Oluwasegun (on paper) but you can call me Viktor
+# 👋 I'm Oluwasegun aka Viktor
 
 ## 🌟 About Me
 - ⚙️ **Data Engineer** skilled in building robust and scalable ETL pipelines for cloud platforms like AWS and GCP.
