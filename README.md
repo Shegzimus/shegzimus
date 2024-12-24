@@ -24,7 +24,7 @@
 
 ## 🔭 What I’m Working On
 - Building a weekly ETL pipeline for [Near Earth Objects](https://github.com/Shegzimus/DE_NASA_NeoW_Pipeline) (asteroids) and [Coronal Mass Ejections](https://github.com/Shegzimus/DE_NASA_CME_Pipeline) using NASA's API. 
-- Developing a real-time streaming pipeline using tools like Kafka and Apache Flink to process and analyze weather data.
+- An AI model that deploys metaheuristic algorithms to plan and optimize grocery lists based on customer location and product proxy/availability; maximizing/minimizing variables based on fitness goals, nutrition density & budget.
 - Building a pipeline with dynamic workload management capabilities using Airflow sensors and Spark to adjust resource allocation based on data volume.
 - Designing a player database for a League of Legends discord group to track in-house scrims, tournaments and player stats.
 
