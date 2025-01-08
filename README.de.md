@@ -18,3 +18,10 @@
 - **Funktionalität vor Verfeinerung**: Ich setze darauf, Projekte schnell zum Laufen zu bringen, indem ich mit einer funktionsfähigen Pipeline starte, die schnell Mehrwert liefert, bevor ich sie zu einer ausgereifteren und zukunftssicheren Version verfeinere. Das spart Zeit und ermöglicht es mir, Designs anhand von realem Feedback anzupassen.
 
 - **Sicherheit und Modularität als Grundpfeiler**: Sichere und modulare Designs sind für mich von grundlegender Bedeutung. Ich lege (manchmal zu viel) Wert auf die Umsetzung bewährter Praktiken wie Geheimnisverwaltung, nicht fest codierte Pfade und modulare Strukturen, um sicherzustellen, dass Pipelines robust, konform und leicht zu warten sind.
+
+ ## 🔭 Woran ich arbeite
+
+- Aufbau einer wöchentlichen ETL-Pipeline für [Near Earth Objects (Asteroiden)]((https://github.com/Shegzimus/DE_Fashion_Product_Images)) und Coronal Mass Ejections mithilfe der NASA-API.
+- Entwicklung eines KI-Modells, das metaheuristische Algorithmen einsetzt, um Einkaufslisten basierend auf dem Standort des Kunden und der Verfügbarkeit von Produkten zu planen und zu optimieren. Dabei werden Variablen wie Fitnessziele, Nährstoffdichte und Budget maximiert oder minimiert.
+- Aufbau einer Pipeline mit dynamischen Workload-Management-Funktionen, die Airflow-Sensoren und Spark verwenden, um die Ressourcenallokation basierend auf dem Datenvolumen anzupassen.
+- Entwurf einer Spieler-Datenbank für eine League of Legends-Discord-Gruppe, um Inhouse-Scrims, Turniere und Spielerstatistiken zu verfolgen.
