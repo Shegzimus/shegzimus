@@ -21,7 +21,7 @@
 
  ## 🔭 Woran ich arbeite
 
-- Aufbau einer wöchentlichen ETL-Pipeline für [Near Earth Objects (Asteroiden)]((https://github.com/Shegzimus/DE_Fashion_Product_Images)) und Coronal Mass Ejections mithilfe der NASA-API.
+- Aufbau einer wöchentlichen ETL-Pipeline für [Near Earth Objects (Asteroiden)](https://github.com/Shegzimus/DE_Fashion_Product_Images) und Coronal Mass Ejections mithilfe der NASA-API.
 - Entwicklung eines KI-Modells, das metaheuristische Algorithmen einsetzt, um Einkaufslisten basierend auf dem Standort des Kunden und der Verfügbarkeit von Produkten zu planen und zu optimieren. Dabei werden Variablen wie Fitnessziele, Nährstoffdichte und Budget maximiert oder minimiert.
 - Aufbau einer Pipeline mit dynamischen Workload-Management-Funktionen, die Airflow-Sensoren und Spark verwenden, um die Ressourcenallokation basierend auf dem Datenvolumen anzupassen.
 - Entwurf einer Spieler-Datenbank für eine League of Legends-Discord-Gruppe, um Inhouse-Scrims, Turniere und Spielerstatistiken zu verfolgen.
