@@ -1,4 +1,4 @@
-
+[![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/Shegzimus/shegzimus/blob/main/README.de.md)
 
 ## 🌟 About Me
 - ⚙️ **Data Engineer** skilled in building robust and scalable ETL pipelines for cloud platforms like AWS and GCP.
