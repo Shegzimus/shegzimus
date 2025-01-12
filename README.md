@@ -10,7 +10,7 @@
 - **Programming Languages**: Python, SQL, PySpark, HCL.
 - **Tools & Technologies**: Docker, Airflow, Terraform, AWS (S3, Glue, EC2), GCP (BigQuery, Storage, Cloud Run).
 - **Behavioral Strengths**: Seeing the "bigger picture", abstracting ideas and **integrating client expectations into my solution design process**.
-- **Tech Specialties**: Writing readable & refactorable ETL functions and configuring Docker images/containers.
+- **Tech Specialties**: Writing readable & refactorable ETL modules and configuring Docker images/containers.
 
 ## 💡 My Design Philosophy (what you can expect)
 - **Scalable and Delegable Pipelines**: I believe in designing pipelines that are easy to operate and maintain
