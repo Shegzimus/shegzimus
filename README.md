@@ -1,4 +1,4 @@
-[![Deutsch](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/Shegzimus/shegzimus/blob/main/README.de.md)
+[![Deutsch](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/Shegzimus/shegzimus/blob/main/README.de.md) [![wakatime](https://wakatime.com/badge/user/7bb4aa36-0e0a-4c8e-9ce5-180c23c37a37.svg)](https://wakatime.com/@7bb4aa36-0e0a-4c8e-9ce5-180c23c37a37)
 
 ## 🌟 About Me
 - ⚙️ **Data Engineer** skilled in building robust and scalable ETL pipelines for cloud platforms like AWS and GCP.
