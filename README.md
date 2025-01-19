@@ -8,7 +8,7 @@
 
 ## 🛠️ Key Skills
 - **Programming Languages**: Python, SQL, PySpark, HCL.
-- **Tools & Technologies**: Docker, Airflow, Terraform, AWS (S3, Glue, EC2), GCP (BigQuery, Storage, Cloud Run).
+- **Tools & Technologies**: Docker, Airflow, Terraform, AWS (S3, Glue, EC2), GCP (BigQuery, Storage, Cloud Compute, Cloud Run).
 - **Behavioral Strengths**: Seeing the "bigger picture", abstracting ideas and **integrating client expectations into my solution design process**.
 - **Tech Specialties**: Writing readable & refactorable ETL modules and configuring Docker images/containers.
 
