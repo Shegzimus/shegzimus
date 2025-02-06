@@ -1,27 +1,23 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Shegzimus/shegzimus/blob/main/README.md)
 
 ## 🌟 Über mich
-- ⚙️ **Data Engineer**, spezialisiert auf den Aufbau robuster und skalierbarer ETL-Pipelines für Cloud-Plattformen wie AWS und GCP.
-- 🔢 **Akademischer Hintergrund** in Mathematik und Data Science mit nachgewiesenen Fähigkeiten in Problemlösung und analogem Denken.
-- 💼 **Kurze Karriere** in Management- und Public Health Consulting, in der ich datenbasierte Strategien für verschiedene Branchen entwickelt habe.
-- 💻 **Leidenschaftlich** in den Bereichen Datenpipeline-Entwicklung und containerisierte Workflows.
+⚙️ Data Engineer mit Erfahrung im Aufbau modularer cloudbasierter ETL-Pipelines für Cloud-Plattformen.
+🔢 Akademischer Hintergrund in Mathematik (B.Sc.) & Data Science (M.Sc.)
+💼 Kurze Laufbahn im Management & Public Health Consulting
+💻 Leidenschaftlich an Datenpipeline-Entwicklung und containerisierten Workflows interessiert.
 
-## 🛠️ Schlüsselkompetenzen
-- **Programmiersprachen**: Python, SQL, PySpark, HCL.
-- **Tools & Technologien**: Docker, Airflow, Terraform, AWS (S3, Glue, EC2), GCP (BigQuery, Storage, Cloud Run).
-- **Verhaltensstärken**: Das „große Ganze“ sehen, Ideen abstrahieren und Kundenerwartungen in meinen Lösungsdesignprozess integrieren.
-- **Technische Spezialgebiete**: Schreiben lesbarer und refaktorierbarer ETL-Funktionen sowie Konfiguration von Docker-Images/Containern.
+🛠️ Tech-Stack:
+Spezialität: Schreiben von gut lesbaren & refakturierbaren ETL-Skripten/-Modulen sowie Konfiguration von virtuellen Maschinen und Docker-Images/Containern.
+💡 Meine Designphilosophie (was du erwarten kannst)
+Skalierbare und delegierbare Pipelines: Ich bin der Meinung, dass Pipelines so gestaltet sein sollten, dass sie leicht zu bedienen und zu warten sind, damit sich Teams auf die Entwicklung neuer Lösungen und die Lösung anderer Herausforderungen konzentrieren können. Dieser Ansatz steht im Gegensatz zu der verbreiteten Annahme, dass nur der Autor seinen Code warten kann. Gute Pipelines erfordern nach der Bereitstellung wenig bis gar kein Eingreifen des Autors.
 
-## 💡 Meine Design-Philosophie (was Sie erwarten können)
-- **Skalierbare und delegierbare Pipelines**: Ich glaube daran, Pipelines zu entwerfen, die leicht zu betreiben und zu warten sind, sodass Teams sich auf die Entwicklung neuer Lösungen und die Lösung anderer Herausforderungen konzentrieren können. Dieser Ansatz steht im Gegensatz zu der weit verbreiteten Annahme, dass nur der Autor seinen Code warten kann. Gute Pipelines erfordern nach der Bereitstellung wenig bis gar keine Eingriffe des Autors.
+Funktionalität vor Verfeinerung: Ich setze darauf, Dinge schnell an den Start zu bringen und zuerst eine funktionierende Pipeline zu erstellen – um schnell Mehrwert zu liefern –, bevor man sie in eine umfassendere, zukunftssichere Version verfeinert. Das spart Zeit und ermöglicht es mir, das Design anhand von praktischen Rückmeldungen anzupassen.
 
-- **Funktionalität vor Verfeinerung**: Ich setze darauf, Projekte schnell zum Laufen zu bringen, indem ich mit einer funktionsfähigen Pipeline starte, die schnell Mehrwert liefert, bevor ich sie zu einer ausgereifteren und zukunftssicheren Version verfeinere. Das spart Zeit und ermöglicht es mir, Designs anhand von realem Feedback anzupassen.
+Sicherheit und Modularität als Grundpfeiler: Sichere und modulare Designs sind für meine Arbeit von zentraler Bedeutung. Ich lege (manchmal vielleicht zu viel) Wert auf die Umsetzung von Best Practices wie Secret Management, nicht fest codierten Pfaden und modularen Strukturen, um Pipelines robust, konform und pflegeleicht zu gestalten.
 
-- **Sicherheit und Modularität als Grundpfeiler**: Sichere und modulare Designs sind für mich von grundlegender Bedeutung. Ich lege (manchmal zu viel) Wert auf die Umsetzung bewährter Praktiken wie Geheimnisverwaltung, nicht fest codierte Pfade und modulare Strukturen, um sicherzustellen, dass Pipelines robust, konform und leicht zu warten sind.
-
- ## 🔭 Woran ich arbeite
-
-- Aufbau einer wöchentlichen ETL-Pipeline für [Near Earth Objects (Asteroiden)](https://github.com/Shegzimus/DE_Fashion_Product_Images) und Coronal Mass Ejections mithilfe der NASA-API.
-- Entwicklung eines KI-Modells, das metaheuristische Algorithmen einsetzt, um Einkaufslisten basierend auf dem Standort des Kunden und der Verfügbarkeit von Produkten zu planen und zu optimieren. Dabei werden Variablen wie Fitnessziele, Nährstoffdichte und Budget maximiert oder minimiert.
-- Aufbau einer Pipeline mit dynamischen Workload-Management-Funktionen, die Airflow-Sensoren und Spark verwenden, um die Ressourcenallokation basierend auf dem Datenvolumen anzupassen.
-- Entwurf einer Spieler-Datenbank für eine League of Legends-Discord-Gruppe, um Inhouse-Scrims, Turniere und Spielerstatistiken zu verfolgen.
+🔭 Woran ich gerade arbeite
+Apache Spark & PySpark-Optimierungen
+dbt (Data Build Tool) & Analytics Engineering
+MLOps & Feature Engineering für ML-Pipelines
+JVM-Sprachen (Java & Scala)
+📫 Kontakt
