@@ -25,4 +25,4 @@
 📫 Kontakt
 - 📧 *[Email](segun.ajet@protonmail.com)*
 - 💼 *[LinkedIn](https://www.linkedin.com/in/segun-ajet/)*
-- 🦜 *[Book a brief meeting](https://calendar.app.google/zEJVh3RVoMRD3odn6)*
+- 🦜 *[Buche ein kurzes Meeting](https://calendar.app.google/zEJVh3RVoMRD3odn6)*
