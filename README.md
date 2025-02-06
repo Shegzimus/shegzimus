@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 - ⚙️ **Data Engineer** skilled in building modular cloud-based ETL pipelines for cloud platforms.
-- 🔢 **Academic background in Mathematics & Data Science**
+- 🔢 **Academic background in Mathematics (BSc) & Data Science (MSc)**
 - 💼 **Brief career in Management & Public Health Consulting**
 - 💻 Passionate about **data pipeline development**, and **containerized workflows**.
 
