@@ -1,9 +1,9 @@
 [![Deutsch](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/Shegzimus/shegzimus/blob/main/README.de.md) [![wakatime](https://wakatime.com/badge/user/7bb4aa36-0e0a-4c8e-9ce5-180c23c37a37.svg)](https://wakatime.com/@7bb4aa36-0e0a-4c8e-9ce5-180c23c37a37)
 
 ## 🌟 About Me
-- ⚙️ **Data Engineer** skilled in building robust and scalable ETL pipelines for cloud platforms like AWS and GCP.
-- 🔢 **Academic background in Mathematics & Data Science** with proven abilities in problem-solving and analogous thinking.
-- 💼 **Brief career in Management & Public Health Consulting** where I delivered data-driven strategies across various industries.
+- ⚙️ **Data Engineer** skilled in building modular cloud-based ETL pipelines for cloud platforms.
+- 🔢 **Academic background in Mathematics & Data Science**
+- 💼 **Brief career in Management & Public Health Consulting**
 - 💻 Passionate about **data pipeline development**, and **containerized workflows**.
 
 ## 🛠️ Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,github,git,gcp,aws,kafka,latex )](https://skillicons.dev)
