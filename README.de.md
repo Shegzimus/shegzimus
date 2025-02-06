@@ -22,7 +22,7 @@
 - MLOps & Feature Engineering für ML-Pipelines
 - JVM-Sprachen (Java & Scala)
 
-📫 Kontakt
+## 📫 Kontakt
 - 📧 *[Email](segun.ajet@protonmail.com)*
 - 💼 *[LinkedIn](https://www.linkedin.com/in/segun-ajet/)*
 - 🦜 *[Buche ein kurzes Meeting](https://calendar.app.google/zEJVh3RVoMRD3odn6)*
