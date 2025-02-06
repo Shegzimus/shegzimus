@@ -8,10 +8,7 @@
 
 ## 🛠️ Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
 
-
-- **Tools & Technologies**: Docker, Airflow, Terraform, AWS (S3, Glue, EC2), GCP (BigQuery, Storage, Cloud Compute, Cloud Run).
-- **Behavioral Strengths**: Seeing the "bigger picture", abstracting ideas and **integrating client expectations into my solution design process**.
-- **Tech Specialties**: Writing readable & refactorable ETL modules and configuring Docker images/containers.
+- **Specialty**: Writing readable & refactorable ETL scripts/modules and configuring Docker images/containers.
 
 ## 💡 My Design Philosophy (what you can expect)
 - **Scalable and Delegable Pipelines**: I believe in designing pipelines that are easy to operate and maintain
