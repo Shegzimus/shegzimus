@@ -6,7 +6,7 @@
 - 💼 **Brief career in Management & Public Health Consulting** where I delivered data-driven strategies across various industries.
 - 💻 Passionate about **data pipeline development**, and **containerized workflows**.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,github,git,gcp,aws,kafka,latex )](https://skillicons.dev)
 
 <div >
 	<table>
