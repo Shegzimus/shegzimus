@@ -4,7 +4,7 @@
 - ⚙️ **Data Engineer** skilled in building modular cloud-based ETL pipelines for cloud platforms.
 - 🔢 **Academic background in Mathematics (BSc) & Data Science (MSc)**
 - 💼 **Brief career in Management & Public Health Consulting**
-- 💻 Passionate about **data pipeline development**, and **containerized workflows**.
+- 💻 Passionate about **data architecture development**, and **containerized workflows**.
 
 ## 🛠️ Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
 
