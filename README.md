@@ -22,7 +22,7 @@
 
 ## 🔭 What I’m Learning
 - **Apache Spark & PySpark Optimizations**
-- **Kestra (language agnostic orchestrator)
+- **Kestra (language agnostic orchestrator)**
 - **dbt (Data Build Tool) & Analytics Engineering**
 - **MLOps & Feature Engineering for ML Pipelines**
 - **JVM languages (Java & Scala)**
