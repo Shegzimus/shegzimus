@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
 
-- **Specialty**: Writing readable & refactorable ETL scripts/modules and configuring Docker images/containers.
+- **Specialty**: Writing readable & refactorable ETL scripts/modules and configuring Virtual machines and Docker images/containers.
 
 ## 💡 My Design Philosophy (what you can expect)
 - **Scalable and Delegable Pipelines**: I believe in designing pipelines that are easy to operate and maintain
