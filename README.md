@@ -20,17 +20,14 @@
 - **Security and Modularity as Cornerstones**: Secure and modular designs are fundamental to my work. I focus (too much sometimes) on implementing
   best practices like secret management, non-hardcoded paths, and modular structures to ensure pipelines are robust, compliant, and easy to maintain.
 
-## 🔭 What I’m Working On
-- Building a weekly ETL pipeline for [Near Earth Objects](https://github.com/Shegzimus/DE_NASA_NeoW_Pipeline) (asteroids) and [Coronal Mass Ejections](https://github.com/Shegzimus/DE_NASA_CME_Pipeline) using NASA's API. 
-- An AI model that deploys metaheuristic algorithms to plan and optimize grocery lists based on customer location and product proxy/availability; maximizing/minimizing variables based on fitness goals, nutrition density & budget.
-- Building a pipeline with dynamic workload management capabilities using Airflow sensors and Spark to adjust resource allocation based on data volume.
-- Designing a player database for a League of Legends discord group to track in-house scrims, tournaments and player stats.
+## 🔭 What I’m Learning
+- **Apache Spark & PySpark Optimizations**
+- **dbt (Data Build Tool) & Analytics Engineering**
+- **MLOps & Feature Engineering for ML Pipelines**
+- **JVM languages (Java & Scala)**
 
-## 📈 Recent Projects
-- **[Fashion Image ETL Pipeline](https://github.com/Shegzimus/DE_Fashion_Product_Images)**: A modular pipeline for extracting, transforming, and loading 23+ GB of images and their respective metadata for hypothetical ML use.
 
 ## 📫 Connect With Me
-If you think I'll be a good addition to your team, feel free to contact me using the links below and let's discuss your next solution!
 - 📧 *[Email](segun.ajet@protonmail.com)*
 - 💼 *[LinkedIn](https://www.linkedin.com/in/segun-ajet/)*
 - 🦜 *[Book a brief meeting](https://calendar.app.google/zEJVh3RVoMRD3odn6)*
