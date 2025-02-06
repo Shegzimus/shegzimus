@@ -6,7 +6,7 @@
 - 💼 **Brief career in Management & Public Health Consulting**
 - 💻 Passionate about **data pipeline development**, and **containerized workflows**.
 
-## 🛠️ Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,github,git,gcp,aws,kafka,latex )](https://skillicons.dev)
+## 🛠️ Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
 
 
 - **Tools & Technologies**: Docker, Airflow, Terraform, AWS (S3, Glue, EC2), GCP (BigQuery, Storage, Cloud Compute, Cloud Run).
