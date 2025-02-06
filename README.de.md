@@ -6,7 +6,7 @@
 💼 Kurze Laufbahn im Management & Public Health Consulting
 💻 Leidenschaftlich an Datenpipeline-Entwicklung und containerisierten Workflows interessiert.
 
-🛠️ Tech-Stack:
+🛠️ Tech-Stack: [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
 Spezialität: Schreiben von gut lesbaren & refakturierbaren ETL-Skripten/-Modulen sowie Konfiguration von virtuellen Maschinen und Docker-Images/Containern.
 💡 Meine Designphilosophie (was du erwarten kannst)
 Skalierbare und delegierbare Pipelines: Ich bin der Meinung, dass Pipelines so gestaltet sein sollten, dass sie leicht zu bedienen und zu warten sind, damit sich Teams auf die Entwicklung neuer Lösungen und die Lösung anderer Herausforderungen konzentrieren können. Dieser Ansatz steht im Gegensatz zu der verbreiteten Annahme, dass nur der Autor seinen Code warten kann. Gute Pipelines erfordern nach der Bereitstellung wenig bis gar kein Eingreifen des Autors.
