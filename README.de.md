@@ -16,7 +16,7 @@
 
 - Sicherheit und Modularität als Grundpfeiler: Sichere und modulare Designs sind für meine Arbeit von zentraler Bedeutung. Ich lege (manchmal vielleicht zu viel) Wert auf die Umsetzung von Best Practices wie Secret Management, nicht fest codierten Pfaden und modularen Strukturen, um Pipelines robust, konform und pflegeleicht zu gestalten.
 
-🔭 Woran ich gerade arbeite
+## 🔭 Woran ich gerade arbeite
 - Apache Spark & PySpark-Optimierungen
 - dbt (Data Build Tool) & Analytics Engineering
 - MLOps & Feature Engineering für ML-Pipelines
