@@ -11,8 +11,8 @@
 - **Specialty**: Writing readable & refactorable ETL scripts/modules and configuring Virtual machines and Docker images/containers with Terraform
 
 ## 💡 My Design Philosophy (what you can expect)
-- **Scalable and Delegable Pipelines**: I believe in designing pipelines that are easy to operate and maintain
-  so that teams can focus on creating new solutions and solving other challenges. This approach contrasts with the common
+- **Scalable and Delegable Pipelines**: I believe in designing easy pipelines to operate and maintain
+  so that teams can focus on creating new solutions and solving other challenges. This approach contrasts with the 
   belief that only the author can maintain their code. Good pipelines require little to no author intervention after deployment.
   
 - **Functionality before refinement**: I believe in getting things off the ground and starting with a pipeline that works—delivering value quickly—before refining it into a more polished, future-proof version. This saves time and lets me adapt designs based on real-world feedback.
@@ -21,9 +21,9 @@
   best practices like secret management, non-hardcoded paths, and modular structures to ensure pipelines are robust, compliant, and easy to maintain.
 
 ## 🔭 What I’m Learning
-- **Apache Spark & PySpark Optimizations**
+- **PySpark Optimizations**
 - **Kestra (language agnostic orchestrator)**
-- **dbt (Data Build Tool) & Analytics Engineering**
+- **dbt (Data Build Tool)**
 - **MLOps & Feature Engineering for ML Pipelines**
 - **JVM languages (Java & Scala)**
 
