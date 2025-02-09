@@ -24,8 +24,9 @@
 - **PySpark Optimizations**
 - **Kestra (language agnostic orchestrator)**
 - **dbt (Data Build Tool)**
-- **MLOps & Feature Engineering for ML Pipelines**
+- **MLOps & Feature Engineering for ML Pipelines (Customer segmentation/clustering**
 - **JVM languages (Java & Scala)**
+- **Go**
 
 
 ## 📫 Connect With Me
