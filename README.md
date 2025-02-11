@@ -1,7 +1,7 @@
 [![Deutsch](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/Shegzimus/shegzimus/blob/main/README.de.md)
 
 ## 🌟 About Me
-- ⚙️ **Data Engineer** skilled in building modular cloud-based ETL pipelines for cloud platforms.
+- ⚙️ **Data Engineer** skilled in building modular cloud-based ETL pipelines.
 - 🔢 **Academic background in Mathematics (BSc) & Data Science (MSc)**
 - 💼 **Brief career in Management & Public Health Consulting**
 - 💻 Passionate about **data architecture development**, and **containerized workflows**.
