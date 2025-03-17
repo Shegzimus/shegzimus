@@ -21,10 +21,7 @@
   best practices like secret management, non-hardcoded paths, and modular structures to ensure pipelines are robust, compliant, and easy to maintain.
 
 ## 🔭 What I’m Learning
-- **PySpark Optimizations**
-- **Kestra (language agnostic orchestrator)**
-- **dbt (Data Build Tool)**
-- **MLOps & Feature Engineering for ML Pipelines (Customer segmentation/clustering**
+- **RegEx**
 - **JVM languages (Java & Scala)**
 - **Go**
 
