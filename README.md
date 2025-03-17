@@ -23,7 +23,7 @@
 ## 🔭 What I’m Learning
 - **RegEx**
 - **JVM languages (Java & Scala)**
-- **Go**
+- **Go (for writing Kafka producers and multithreading)**
 
 
 ## 📫 Connect With Me
