@@ -7,7 +7,7 @@
 - 💻 Passionate about **data architecture development**, and **containerized workflows**.
   
 ## 🛠️ Tech Stack:
- [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,regex,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,postgres,bash,terraform,docker,redis,regex,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
 
 - **Specialty**: Writing readable & refactorable ETL scripts/modules and configuring Virtual machines and Docker images/containers with Terraform
 
