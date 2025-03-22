@@ -5,8 +5,9 @@
 - 🔢 **Academic background in Mathematics (BSc) & Data Science (MSc)**
 - 💼 **Brief career in Management & Public Health Consulting**
 - 💻 Passionate about **data architecture development**, and **containerized workflows**.
-
-## 🛠️ Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,regex,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
+  
+## 🛠️ Tech Stack:
+ [![My Skills](https://skillicons.dev/icons?i=py,r,terraform,postgres,bash,docker,redis,regex,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
 
 - **Specialty**: Writing readable & refactorable ETL scripts/modules and configuring Virtual machines and Docker images/containers with Terraform
 
