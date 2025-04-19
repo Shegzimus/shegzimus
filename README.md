@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack:
  [![My Skills](https://skillicons.dev/icons?i=py,postgres,bash,terraform,docker,redis,regex,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
 
-- **Specialty**: Writing readable ETL modules and configuring Virtual machines with Terraform
+- **Specialty**: Using algorithms to design ETL packages/modules
 
 ## 💡 My Design Philosophy (what you can expect)
 - **Scalable and Delegable Pipelines**: I believe in designing easy pipelines to operate and maintain
