@@ -20,7 +20,7 @@
 
 ## 🔭 What I’m Learning
 - **RegEx**
-- **Rust** (for faster request and transformation loops)
+- **Apache Pulsar** 
 - **Go (for writing Kafka producers and multithreading)**
 
 
