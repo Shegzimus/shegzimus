@@ -20,7 +20,7 @@
 
 ## 🔭 What I’m Learning
 - **RegEx**
-- **JVM languages (Java & Scala)**
+- **Rust** (for faster request and transformation loops)
 - **Go (for writing Kafka producers and multithreading)**
 
 
