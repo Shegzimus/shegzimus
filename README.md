@@ -15,7 +15,7 @@
 ## 🔭 What I’m Learning
 - **RegEx**
 - **Apache Pulsar** 
-- **Go (for writing Kafka producers and multithreading)**
+- **Go**
 
 
 ## 📫 Connect With Me
