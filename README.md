@@ -1,5 +1,3 @@
-[![Deutsch](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/Shegzimus/shegzimus/blob/main/README.de.md)
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShegzimus%2Fshegzimus&label=Visitors&countColor=%23f47373&style=plastic)
 
 ##  About Me
