@@ -8,7 +8,7 @@
 ##  Stack:
  [![My Skills](https://skillicons.dev/icons?i=py,postgres,bash,terraform,docker,redis,regex,github,git,gcp,aws,kafka,latex,vscode,windows )](https://skillicons.dev)
 
-- **Speciality**: Designing domain-specific data ingestion architecture.
+- **Speciality**: Designing domain-specific data ingestion architecture and applications.
 
 
 ## 🔭 What I’m Learning
