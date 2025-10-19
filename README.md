@@ -1,7 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShegzimus%2Fshegzimus&label=Visitors&countColor=%23f47373&style=plastic)
 
 ##  About Me
--  **Data Engineer** skilled in building modular cloud-based ETL pipelines.
 -  **Academic background in Mathematics (BSc) & Data Science (MSc)**
 -  **Brief career in Management & Public Health Consulting**
 -  Enjoys designing **data architecture**, and **containerized workflows**.
