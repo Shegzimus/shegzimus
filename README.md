@@ -12,7 +12,6 @@
 
 
 ## 🔭 What I’m Learning
-- **RegEx**
 - **Apache Pulsar** 
 - **Go**
 
