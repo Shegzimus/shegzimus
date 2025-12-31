@@ -6,7 +6,8 @@
 
 
 ##  What I’m Learning
-- **Rust** 
+- **Go**
+- **FastAPI** 
 
 
 ## Connect With Me
