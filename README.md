@@ -8,10 +8,5 @@
 ##  What I’m Learning
 - **Go**
 - **FastAPI** 
-
-
-## Connect With Me
--  *[Email](segun.ajet@protonmail.com)*
--  *[LinkedIn](https://www.linkedin.com/in/segun-ajet/)*
-
+- **ML for app log prediction**
 
