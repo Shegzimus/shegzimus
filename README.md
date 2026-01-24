@@ -7,5 +7,5 @@
 
 ##  What I’m Learning
 - **Go**
-- **k8s*
+- **k8s**
 
