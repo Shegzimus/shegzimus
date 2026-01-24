@@ -7,6 +7,5 @@
 
 ##  What I’m Learning
 - **Go**
-- **FastAPI** 
-- **ML for app log prediction**
+- **k8s*
 
